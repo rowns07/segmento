@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "segmento-ba419": {
+      "hosting": {
+        "editora": [
+          "segmento-ba419"
+        ]
+      }
+    }
+  }
+}
